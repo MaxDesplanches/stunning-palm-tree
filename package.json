@@ -1,0 +1,20 @@
+{
+  "name": "@stunning/palm-tree",
+  "version": "1.0.0",
+  "description": "stunning palm tree",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxDesplanches/stunning-palm-tree.git"
+  },
+  "keywords": [],
+  "author": "Max Desplanches",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxDesplanches/stunning-palm-tree/issues"
+  },
+  "homepage": "https://github.com/MaxDesplanches/stunning-palm-tree#readme"
+}
