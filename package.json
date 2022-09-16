@@ -10,11 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/MaxDesplanches/stunning-palm-tree.git"
   },
-  "keywords": [],
   "author": "Max Desplanches",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MaxDesplanches/stunning-palm-tree/issues"
   },
+  "keywords": [
+    "stunning",
+    "palm",
+    "tree"
+  ],
   "homepage": "https://github.com/MaxDesplanches/stunning-palm-tree#readme"
 }
